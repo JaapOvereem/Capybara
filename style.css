@@ -77,6 +77,12 @@ a {
 	font-weight: bold;
 }
 
+img {
+	float: right;
+	margin-left: 12px;
+}
+
+
 .page-nav {
   position: absolute;
   left: 15px;
@@ -103,5 +109,9 @@ a {
         color: #6f717d;
       }
 
+iframe {
+	margin-left: 200px;
+	margin-bottom: 40px;
+}
 	  
 	  https://fonts.googleapis.com/css?family=Open+Sans
